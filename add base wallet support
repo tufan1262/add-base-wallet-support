@@ -1,0 +1,2 @@
+# add-base-wallet-support
+Integrates wallet connections for the Base network, including MetaMask and WalletConnect. Ensures users can sign transactions and query balances seamlessly on Base.
